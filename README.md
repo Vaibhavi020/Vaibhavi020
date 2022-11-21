@@ -13,7 +13,7 @@
 
 
 <a target="_blank">
-  <img align="right" height="250" width="auto" margin-top = "-10px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"">
+<!--   <img align="right" height="250" width="auto" margin-top = "-10px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif""> -->
 </a>
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Java Full Stack Development**
